@@ -1,0 +1,13 @@
+End product is the same as merge.
+Removes the branch. 
+Deletes history of previous branchs.
+
+Issues:
+Do not rebase commits that exist outside your repository
+
+Which is better?
+Up to you, if you want the complete history of what has happened to this repo, 
+or
+a clear story of how your project was made.
+
+Take Home Message : Rebase things you haven't pushed elsewhere for a cleaner history.
